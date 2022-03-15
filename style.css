@@ -126,7 +126,7 @@ table{
     width: 25%;
     position: fixed;
     bottom: 20px;
-    right: 20px
+    right: 20px;
 }
 .medios{
     text-align: center;
@@ -161,24 +161,6 @@ footer ul{
 }
 .redes{
     color: white;
-}
-.aqua:hover{
-    transform: scale(1.1, 1.1);
-}
-.terra:hover{
-    transform: scale(1.1, 1.1);
-}
-.marsala:hover{
-    transform: scale(1.1, 1.1);
-}
-.complementos:hover{
-    transform: scale(1.1, 1.1);
-}
-.varios:hover{
-    transform: scale(1.1, 1.1);
-}
-.bazar:hover{
-    transform: scale(1.1, 1.1);
 }
 
 @media only screen and (max-width: 320px){
